@@ -153,6 +153,7 @@ projet-restaurant/
 ![Capture d'écran 2025-07-08 051251](https://github.com/user-attachments/assets/0ac2725c-1076-4b18-a9fe-cf9055bcbe62)
 ![Capture d'écran 2025-07-08 051132](https://github.com/user-attachments/assets/c361d274-4555-4f25-a7ef-32b3431c72ff)
 ![Capture d'écran 2025-07-08 051146](https://github.com/user-attachments/assets/8c369678-4d46-45bf-971e-f45f8374cb47)
+![resto3](https://github.com/user-attachments/assets/a0af7084-c50a-4e9b-b567-031ea45df78b)
 ![image](https://github.com/user-attachments/assets/27d0f112-8625-4f92-b3fa-143377733d5a)
 ![Capture d'écran 2025-07-08 051051](https://github.com/user-attachments/assets/31a86dce-fb15-4e1d-a66b-b68c8e36e987)
 
