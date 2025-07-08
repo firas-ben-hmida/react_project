@@ -1,0 +1,779 @@
+{
+  "users": [
+    {
+      "email": "firas@gmail.com",
+      "password": "123456",
+      "name": "firas",
+      "isAdmin": true,
+      "id": 1
+    },
+    {
+      "email": "firas.benhmida@gmail.com",
+      "password": "123456",
+      "name": "firas benhmida",
+      "id": 2
+    },
+    {
+      "email": "firas.firas@gmail.com",
+      "password": "$2a$10$rRbA3EvqVLXI2Uwy1CzyXOk/nHCnvBXF7OiLaM4xrnfsflcDlboCO",
+      "name": "firas",
+      "id": 3
+    },
+    {
+      "email": "VV@gmail.com",
+      "password": "$2a$10$qKZ243/lnZKJAv/tVegglOipLf5OXCIiupb2K5zUGS6C2ih5tLx.y",
+      "name": "HGH",
+      "id": 4
+    },
+    {
+      "email": "vxxv@gmail.com",
+      "password": "$2a$10$A10tmZov9ZePhd66JKzEqe33qZoNtXRfDH7nruUGEY0u0qMnFoSR2",
+      "name": "vv",
+      "role": "user",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Cheese Burger",
+      "price": 500,
+      "category": 2,
+      "quantity": 0,
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Chicken Burger",
+      "price": 450,
+      "quantity": 0,
+      "category": "1"
+    },
+    {
+      "id": "4",
+      "name": "Spicy Chicken Burger",
+      "price": 480,
+      "quantity": 0,
+      "category": "1"
+    },
+    {
+      "id": "5",
+      "name": "Bacon Burger",
+      "price": 600,
+      "quantity": 0,
+      "category": "1"
+    },
+    {
+      "id": "6",
+      "name": "Veggie Burger",
+      "price": 400,
+      "quantity": 0,
+      "category": "1"
+    },
+    {
+      "id": "7",
+      "name": "Double Beef Burger",
+      "price": 700,
+      "quantity": 0,
+      "category": "1"
+    },
+    {
+      "id": "8",
+      "name": "Fish Burger",
+      "price": 500,
+      "quantity": 0,
+      "category": "1"
+    },
+    {
+      "id": "9",
+      "name": "Mushroom Swiss Burger",
+      "price": 550,
+      "quantity": 0,
+      "category": "1"
+    },
+    {
+      "id": "10",
+      "name": "BBQ Burger",
+      "price": 580,
+      "quantity": 0,
+      "category": "1"
+    },
+    {
+      "id": "12",
+      "name": "Sparkling Water (500ml)",
+      "price": 35,
+      "quantity": 0,
+      "category": "2"
+    },
+    {
+      "id": "13",
+      "name": "Large Water (1L)",
+      "price": 40,
+      "quantity": 0,
+      "category": "2"
+    },
+    {
+      "id": "14",
+      "name": "Small Fries",
+      "price": 150,
+      "quantity": 0,
+      "category": "3"
+    },
+    {
+      "id": "15",
+      "name": "Medium Fries",
+      "price": 200,
+      "quantity": 0,
+      "category": "3"
+    },
+    {
+      "id": "16",
+      "name": "Large Fries",
+      "price": 250,
+      "quantity": 0,
+      "category": "3"
+    },
+    {
+      "id": "17",
+      "name": "Cheese Fries",
+      "price": 300,
+      "quantity": 0,
+      "category": "3"
+    },
+    {
+      "id": "18",
+      "name": "Bacon Cheese Fries",
+      "price": 350,
+      "quantity": 0,
+      "category": "3"
+    },
+    {
+      "id": "19",
+      "name": "Sweet Potato Fries",
+      "price": 280,
+      "quantity": 0,
+      "category": "3"
+    },
+    {
+      "id": "20",
+      "name": "Chicken Nuggets (6pcs)",
+      "price": 300,
+      "quantity": 0,
+      "category": "4"
+    },
+    {
+      "id": "21",
+      "name": "Chicken Wings (6pcs)",
+      "price": 400,
+      "quantity": 0,
+      "category": "4"
+    },
+    {
+      "id": "22",
+      "name": "Fried Chicken (2pcs)",
+      "price": 450,
+      "quantity": 0,
+      "category": "4"
+    },
+    {
+      "id": "23",
+      "name": "Grilled Chicken",
+      "price": 500,
+      "quantity": 0,
+      "category": "4"
+    },
+    {
+      "id": "24",
+      "name": "Chicken Wrap",
+      "price": 350,
+      "quantity": 0,
+      "category": "4"
+    },
+    {
+      "id": "25",
+      "name": "Chicken Salad",
+      "price": 400,
+      "quantity": 0,
+      "category": "4"
+    },
+    {
+      "id": "26",
+      "name": "Chicken Sandwich",
+      "price": 380,
+      "quantity": 0,
+      "category": "4"
+    },
+    {
+      "id": "27",
+      "name": "Chicken Tenders (4pcs)",
+      "price": 350,
+      "quantity": 0,
+      "category": "4"
+    },
+    {
+      "id": "28",
+      "name": "Spicy Chicken Sandwich",
+      "price": 420,
+      "quantity": 0,
+      "category": "4"
+    },
+    {
+      "id": "29",
+      "name": "Chicken Quesadilla",
+      "price": 450,
+      "quantity": 0,
+      "category": "4"
+    },
+    {
+      "id": "30",
+      "name": "Beef Steak (200g)",
+      "price": 800,
+      "quantity": 0,
+      "category": "5"
+    },
+    {
+      "id": "31",
+      "name": "Pork Chop",
+      "price": 700,
+      "quantity": 0,
+      "category": "5"
+    },
+    {
+      "id": "32",
+      "name": "Lamb Chops",
+      "price": 900,
+      "quantity": 0,
+      "category": "5"
+    },
+    {
+      "id": "33",
+      "name": "Grilled Salmon",
+      "price": 850,
+      "quantity": 0,
+      "category": "5"
+    },
+    {
+      "id": "34",
+      "name": "Fried Rice",
+      "price": 300,
+      "quantity": 0,
+      "category": "6"
+    },
+    {
+      "id": "35",
+      "name": "Chicken Fried Rice",
+      "price": 350,
+      "quantity": 0,
+      "category": "6"
+    },
+    {
+      "id": "36",
+      "name": "Beef Fried Rice",
+      "price": 400,
+      "quantity": 0,
+      "category": "6"
+    },
+    {
+      "id": "37",
+      "name": "Shrimp Fried Rice",
+      "price": 450,
+      "quantity": 0,
+      "category": "6"
+    },
+    {
+      "id": "38",
+      "name": "Vegetable Fried Rice",
+      "price": 320,
+      "quantity": 0,
+      "category": "6"
+    },
+    {
+      "id": "39",
+      "name": "Egg Fried Rice",
+      "price": 280,
+      "quantity": 0,
+      "category": "6"
+    },
+    {
+      "id": "40",
+      "name": "Pineapple Fried Rice",
+      "price": 380,
+      "quantity": 0,
+      "category": "6"
+    },
+    {
+      "id": "41",
+      "name": "Kimchi Fried Rice",
+      "price": 370,
+      "quantity": 0,
+      "category": "6"
+    },
+    {
+      "id": "42",
+      "name": "Coca-Cola (330ml)",
+      "price": 30,
+      "quantity": 0,
+      "category": "7"
+    },
+    {
+      "id": "43",
+      "name": "Pepsi (330ml)",
+      "price": 30,
+      "quantity": 0,
+      "category": "7"
+    },
+    {
+      "id": "44",
+      "name": "Sprite (330ml)",
+      "price": 30,
+      "quantity": 0,
+      "category": "7"
+    },
+    {
+      "id": "45",
+      "name": "Fanta (330ml)",
+      "price": 30,
+      "quantity": 0,
+      "category": "7"
+    },
+    {
+      "id": "46",
+      "name": "Iced Tea (330ml)",
+      "price": 35,
+      "quantity": 0,
+      "category": "7"
+    },
+    {
+      "id": "47",
+      "name": "Lemonade (330ml)",
+      "price": 35,
+      "quantity": 0,
+      "category": "7"
+    },
+    {
+      "id": "48",
+      "name": "Orange Juice (330ml)",
+      "price": 40,
+      "quantity": 0,
+      "category": "7"
+    },
+    {
+      "id": "49",
+      "name": "Apple Juice (330ml)",
+      "price": 40,
+      "quantity": 0,
+      "category": "7"
+    },
+    {
+      "id": "50",
+      "name": "Mango Juice (330ml)",
+      "price": 45,
+      "quantity": 0,
+      "category": "7"
+    },
+    {
+      "id": "51",
+      "name": "Chocolate Ice Cream",
+      "price": 120,
+      "quantity": 0,
+      "category": "8"
+    },
+    {
+      "id": "52",
+      "name": "Vanilla Ice Cream",
+      "price": 120,
+      "quantity": 0,
+      "category": "8"
+    },
+    {
+      "id": "53",
+      "name": "Strawberry Ice Cream",
+      "price": 120,
+      "quantity": 0,
+      "category": "8"
+    },
+    {
+      "id": "54",
+      "name": "Mint Chocolate Chip Ice Cream",
+      "price": 150,
+      "quantity": 0,
+      "category": "8"
+    },
+    {
+      "id": "55",
+      "name": "Cookies and Cream Ice Cream",
+      "price": 150,
+      "quantity": 0,
+      "category": "8"
+    },
+    {
+      "id": "56",
+      "name": "Coffee Ice Cream",
+      "price": 140,
+      "quantity": 0,
+      "category": "8"
+    },
+    {
+      "id": "57",
+      "name": "Pistachio Ice Cream",
+      "price": 160,
+      "quantity": 0,
+      "category": "8"
+    },
+    {
+      "id": "58",
+      "name": "Rocky Road Ice Cream",
+      "price": 150,
+      "quantity": 0,
+      "category": "8"
+    },
+    {
+      "id": "59",
+      "name": "Butter Pecan Ice Cream",
+      "price": 160,
+      "quantity": 0,
+      "category": "8"
+    },
+    {
+      "id": "60",
+      "name": "Neapolitan Ice Cream",
+      "price": 140,
+      "quantity": 0,
+      "category": "8"
+    },
+    {
+      "id": "61",
+      "name": "Caesar Salad",
+      "price": 350,
+      "quantity": 0,
+      "category": "9"
+    },
+    {
+      "id": "62",
+      "name": "Greek Salad",
+      "price": 320,
+      "quantity": 0,
+      "category": "9"
+    },
+    {
+      "id": "65",
+      "name": "Chicken Caesar Salad",
+      "price": 450,
+      "quantity": 0,
+      "category": "9"
+    },
+    {
+      "id": "66",
+      "name": "Tuna Salad",
+      "price": 420,
+      "quantity": 0,
+      "category": "9"
+    },
+    {
+      "id": "67",
+      "name": "Shrimp Salad",
+      "price": 480,
+      "quantity": 0,
+      "category": "9"
+    },
+    {
+      "id": "68",
+      "name": "Fruit Salad",
+      "price": 250,
+      "quantity": 0,
+      "category": "9"
+    },
+    {
+      "id": "69",
+      "name": "Pasta Salad",
+      "price": 300,
+      "quantity": 0,
+      "category": "9"
+    },
+    {
+      "id": "70",
+      "name": "Quinoa Salad",
+      "price": 350,
+      "quantity": 0,
+      "category": "9"
+    },
+    {
+      "id": "71",
+      "name": "Garlic Bread",
+      "price": 120,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "72",
+      "name": "Cheese Garlic Bread",
+      "price": 150,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "73",
+      "name": "Bruschetta",
+      "price": 180,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "74",
+      "name": "Mozzarella Sticks (6pcs)",
+      "price": 250,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "75",
+      "name": "Onion Rings",
+      "price": 200,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "76",
+      "name": "Nachos",
+      "price": 220,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "77",
+      "name": "Cheese Nachos",
+      "price": 280,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "78",
+      "name": "Chicken Quesadilla",
+      "price": 350,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "79",
+      "name": "Beef Quesadilla",
+      "price": 380,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "80",
+      "name": "Vegetable Quesadilla",
+      "price": 320,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "81",
+      "name": "Chicken Soup",
+      "price": 200,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "82",
+      "name": "Tomato Soup",
+      "price": 180,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "83",
+      "name": "Mushroom Soup",
+      "price": 190,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "84",
+      "name": "Vegetable Soup",
+      "price": 170,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "85",
+      "name": "French Onion Soup",
+      "price": 220,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "86",
+      "name": "Clam Chowder",
+      "price": 240,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "87"
+    },
+    {
+      "id": "88",
+      "name": "Lentil Soup",
+      "price": 190,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "89",
+      "name": "Chicken Noodle Soup",
+      "price": 210,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "90",
+      "name": "Beef Stew",
+      "price": 350,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "91",
+      "name": "Chocolate Cake",
+      "price": 250,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "92",
+      "name": "Cheesecake",
+      "price": 280,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "93",
+      "name": "Apple Pie",
+      "price": 220,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "94",
+      "name": "Brownie",
+      "price": 150,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "95",
+      "name": "Tiramisu",
+      "price": 300,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "96",
+      "name": "Red Velvet Cake",
+      "price": 270,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "97",
+      "name": "Carrot Cake",
+      "price": 260,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "98",
+      "name": "Chocolate Mousse",
+      "price": 200,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "99",
+      "name": "Panna Cotta",
+      "price": 240,
+      "quantity": 0,
+      "category": "10"
+    },
+    {
+      "id": "c868",
+      "name": "chicken",
+      "price": 25,
+      "category": 1,
+      "quantity": 0
+    },
+    {
+      "id": "0086",
+      "name": "pizza",
+      "price": 56,
+      "category": 1,
+      "quantity": 0
+    },
+    {
+      "id": "5a49",
+      "name": "chicken",
+      "price": 25,
+      "category": 1,
+      "quantity": 0
+    },
+    {
+      "name": "chicken",
+      "price": 5000,
+      "category": 4,
+      "quantity": 0,
+      "id": "18d6"
+    },
+    {
+      "id": "373f",
+      "name": "Chicken",
+      "price": 500,
+      "category": 4,
+      "quantity": 0
+    },
+    {
+      "id": "_YXfGQF"
+    }
+  ],
+  "categories": [
+    {
+      "name": "All",
+      "id": "0"
+    },
+    {
+      "name": "Burgers",
+      "id": "1"
+    },
+    {
+      "name": "Waters",
+      "id": "2"
+    },
+    {
+      "name": "Fries",
+      "id": "3"
+    },
+    {
+      "name": "Chicken",
+      "id": "4"
+    },
+    {
+      "name": "Meat",
+      "id": "5"
+    },
+    {
+      "name": "Drinks",
+      "id": "7"
+    },
+    {
+      "name": "Ice Cream",
+      "id": "8"
+    },
+    {
+      "name": "Salads",
+      "id": "9"
+    },
+    {
+      "name": "Sides & Desserts",
+      "id": "10"
+    }
+  ]
+}
